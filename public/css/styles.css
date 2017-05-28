@@ -1,0 +1,76 @@
+body {
+  font-family: "source sans pro";
+  width: 90%;
+  margin: 25px auto;
+}
+
+section {
+  margin: 25px 0;
+}
+
+img {
+  max-width: 100%;
+}
+
+.foto {
+  width: 25em;
+  padding-right: 10%;
+}
+
+.fotoin {
+  width: 40em;
+  display: block;
+  margin: auto;
+}
+
+p {
+  margin: 10px 0;
+  font-size: 0.7em;
+  padding-bottom: 1.5em;
+}
+
+.algtekst {
+  font-size: 1.7em;
+}
+
+h1 {
+  font-size: 3em;
+  font-family: "oswald";
+  padding-bottom: 50px;
+  text-transform: uppercase;
+}
+
+h2 {
+  font-size: 1.8em;
+  font-family: "oswald";
+  padding-bottom: 50px;
+  text-transform: uppercase;
+}
+
+h3 {
+  display: inline;
+}
+
+nav {
+  margin: 25px 0;
+}
+
+nav a {
+  display: inline-block;
+  margin-right: 5px;
+}
+
+a:link {
+    text-decoration: none;
+    color: orange;
+}
+
+a:visited {
+    text-decoration: none;
+    color: lightgrey;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: black;
+}
